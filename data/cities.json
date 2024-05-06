@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "33c7",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-05-05T20:09:07.520Z",
+      "notes": "Peepee",
+      "position": {
+        "lat": "48.8936153614802",
+        "lng": "2.3510742187500004"
+      }
+    },
+    {
+      "id": "42b4",
+      "cityName": "Marseille",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-05-05T20:18:33.844Z",
+      "notes": "Peepee",
+      "position": {
+        "lat": "43.32517767999296",
+        "lng": "5.339355468750001"
+      }
+    },
+    {
+      "id": "d86d",
+      "cityName": "South Coast",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-05-05T20:48:20.117Z",
+      "notes": "",
+      "position": {
+        "lat": "33.500178528242294",
+        "lng": "-117.6625442504883"
+      }
+    }
+  ]
+}
